@@ -1,0 +1,12 @@
+# Fichier Power BI (trop volumineux pour GitHub, ou à héberger séparément)
+CO2_Emissions_Vehicules_Dashboard.pbix
+
+# Checkpoints Jupyter (fichiers temporaires auto-générés)
+.ipynb_checkpoints/
+
+# Environnements virtuels Python (si tu en utilises un)
+venv/
+__pycache__/
+
+# Fichiers système
+.DS_Store
